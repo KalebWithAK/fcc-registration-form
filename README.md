@@ -1,6 +1,4 @@
-fcc-registration-form
-
-===================
+# fcc-registration-form
 
 ## Certification Project: Registration Form by Free Code Camp
 
